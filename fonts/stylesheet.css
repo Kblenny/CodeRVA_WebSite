@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'dinbold';
+    src: url('din-bold.eot');
+    src: url('din-bold.eot?#iefix') format('embedded-opentype'),
+         url('din-bold.woff2') format('woff2'),
+         url('din-bold.woff') format('woff'),
+         url('din-bold.ttf') format('truetype'),
+         url('din-bold.svg#dinbold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+
+}
