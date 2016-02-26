@@ -49,7 +49,7 @@
 </div>
 <div class="container"> <br/>
   <br/>
-  <p class="lead">Boot Camp is a week long spin-off that will determine the child's disposition and level of commitment. While most students have no idea what they want to do in 8th grade, thses students attending CodeRVA Boot Camp will have a huge head start and already have a hint of the real world. Boot Camp is actively marketed in all middle schools with transportation provided, and no screening is needed for participation other than student interest. It not only a good way to prepare for the class, but also a check to make sure this is what the student wants to do. More information about Boot Camp is coming soon.</p>
+  <p class="lead">Boot Camp is a week long spin-off that will determine the child's disposition and level of commitment. While some students are still undecided in what they would like to do beyond  8th grade, thses students attending CodeRVA Boot Camp will have a huge advantage, as they will gain the opportunity to explore  the many components of computer science. Transportation will be provided. More information  coming soon.</p>
   <hr/>
   <footer>
 <?php include 'functions.php';?>

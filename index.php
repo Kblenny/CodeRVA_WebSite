@@ -72,17 +72,17 @@
   <div class="row">
     <div class="col-lg-4"><img class="img-circle" src="images/virtual3dimage.jpg" alt="3D reality" width="140" height="140">
       <h2>Virtual Learning</h2>
-      <p>CodeRVA is all about using 21st century learning techniques, such as the computer, to create a more individual approach on learning. That is why we invented virtual learning, a computer-based setting enriched by frequent collaborative project-based learning opportunites designed and facilitated by teachers and industry experts.</p>
+      <p>CodeRVA is all about using 21st century learning techniques to create a more individual approach on learning. That is why we are utlizing a virtual learning approach, a computer-based setting enriched by frequent collaborative project-based learning opportunites designed and facilitated by teachers and industry experts.</p>
     </div>
     <div class="col-lg-4">
     <img class="img-circle" src="images/check.jpg" alt="Check" width="140" height="140">
       <h2>Guaranteed Internship</h2>
-      <p>The last two years of your child's high school career with CodeRVA will be placing them in an internship job of their interest. This also makes them strive to graduate high school with an associate's degree, industry certifications, and guarentees them employment and internship opportunities for when they go off to college. That way, you know your child is getting the best-in-class educational benefits.</p>
+      <p>The last two years of your child's high school career with CodeRVA will be placing them in an internship opportunity based upon  their interest. CodeRVA students will graduate high school with an associate's degree, industry certifications, and internship opportunities that will prepare them for their perosnal and professional endeavors beyond high school.</p>
     </div>
     <div class="col-lg-4">
     <img class="img-circle" src="images/shake.JPG" alt="Career Path" width="140" height="140" />
       <h2>Career Path</h2>
-      <p>CodeRVA is different than other schools, as when the child is in their senior year of high school, through our partners of VCU, J. Sargent Reynolds, and John Tyler Community College, each student will get a career coach to smooth out the transition to college and/or their new career. That way, you know your child is going on the right career path.</p>
+      <p>CodeRVA is different than other schools. Our partnership with  Virginia Commonwealth University, J. Sargent Reynolds, and John Tyler Community College ensures that students are gaining the necessary academic foundation required for postsecondary education. Whereas our employer based partnership ensures that our students are gaining the neccessary skill sets required for employment within the field of computer science. </p>
     </div>
   </div>
   <hr class="featurette-divider" />
