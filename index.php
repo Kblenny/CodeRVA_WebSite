@@ -72,24 +72,24 @@
   <div class="row">
     <div class="col-lg-4"><img class="img-circle" src="images/virtual3dimage.jpg" alt="3D reality" width="140" height="140">
       <h2>Virtual Learning</h2>
-      <p>CodeRVA is all about using 21st century learning techniques to create a more individual approach on learning. That is why we are utlizing a virtual learning approach, a computer-based setting enriched by frequent collaborative project-based learning opportunites designed and facilitated by teachers and industry experts.</p>
+      <p>CodeRva is focused on using 21st Century instructional techniques to create a more individualized approach to learning.  Virtual learning, a computer-based setting, will be enriched by frequent collaborative project-based learning opportunities designed and facilitated by teachers and industry experts.</p>
     </div>
     <div class="col-lg-4">
     <img class="img-circle" src="images/check.jpg" alt="Check" width="140" height="140">
       <h2>Guaranteed Internship</h2>
-      <p>The last two years of your child's high school career with CodeRVA will be placing them in an internship opportunity based upon  their interest. CodeRVA students will graduate high school with an associate's degree, industry certifications, and internship opportunities that will prepare them for their perosnal and professional endeavors beyond high school.</p>
+      <p>During the last two years of high school, each student will receive meaningful, real-life work experience in the field of computer science. This also makes them strive to graduate high school with an associate's degree, industry certifications, and guarentees them employment and internship opportunities for when they go off to college. That way, you know your child is getting the best-in-class educational benefits.</p>
     </div>
     <div class="col-lg-4">
     <img class="img-circle" src="images/shake.JPG" alt="Career Path" width="140" height="140" />
       <h2>Career Path</h2>
-      <p>CodeRVA is different than other schools. Our partnership with  Virginia Commonwealth University, J. Sargent Reynolds, and John Tyler Community College ensures that students are gaining the necessary academic foundation required for postsecondary education. Whereas our employer based partnership ensures that our students are gaining the neccessary skill sets required for employment within the field of computer science. </p>
+      <p>CodeRVA is different from other schools in many ways.  When the student is in their senior year of high school, through our partnerships with area community colleges and universities, a career coach will be assigned to smooth out the transition to college and/or their new career.  This will ensure that your child is well informed and proceeds toward a successful career path.</p>
     </div>
   </div>
   <hr class="featurette-divider" />
   <div class="row featurette">
     <div class="col-md-7">
       <h2 class="featurette-heading"><span class="text-muted">Hybrid</span> High School</span></h2>
-      <p class="lead">CodeRVA is known as a hybrid high school, meaning it has more than one school that provides this 21st century innovation. In fact, CodeRVA has counties in Virginia that all of their schools will provide with this innovation.</p>
+      <p class="lead">In year one, CodeRVA is adopting a hybrid high school model, meaning that it has more than one school that provides this 21st century innovation.  In fact, one of the future goals of CodeRVA  is to expand this innovative learning model to the middle schools in Region 1.</p>
     </div>
     <div class="col-md-5"> <img class="featurette-image img-fluid center-block" src="images/onelearning.jpg" alt="Choices Image"></div>
   </div>
@@ -97,7 +97,7 @@
   <div class="row featurette">
     <div class="col-md-7 col-md-push-5">
       <h2 class="featurette-heading">Faster <span class="text-muted">Completion of School</span></h2>
-      <p class="lead">CodeRVA is guarenteeing that your child will accelerate in completion of their diploma requirements through the first two years of high school through online and blended coursework as well as intro courses in computer science and coding.</p>
+      <p class="lead">CodeRVA offers more personalized learning to ensure that each student masters the content and achieve his/her academic goals with the utmost success.</p>
     </div>
     <div class="col-md-5 col-md-pull-7"> <img class="featurette-image img-fluid center-block" src="images/clock.jpg" alt="Clock"></div>
   </div>
@@ -105,7 +105,7 @@
   <div class="row featurette">
     <div class="col-md-7">
       <h2 class="featurette-heading">Computer <span class="text-muted">Initiative</span></h2>
-      <p class="lead">CodeRVA is known for its computer initiative; to present students with 21st century computer science skills, no matter what their race, color, religion, or view on computers is. CodeRVA strives to make computers a part of the student lifestyle and well-being.</p>
+      <p class="lead">CodeRVA is known for its innovative curriculum that embeds computer science into each course and incorporates  Project-Based Learning (PBL).   CodeRVA strives to prepare ALL STUDENTS for college and career readiness.  </p>
     </div>
     <div class="col-md-5"><img class="featurette-image img-fluid center-block" src="images/complab.JPG" alt="Comp Initiative"></div>
   </div>

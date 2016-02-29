@@ -95,10 +95,13 @@
       <td style="width: 33%;"><a href="http://www.powhatan.k12.va.us/" target="_blank"><img src="images/districts/powhatan.png" width="60%" /></a></td>
     </tr>
     <tr>
-    <td style="width: 33%;"></td>
+    <td height="201" style="width: 33%;"><img src="images/Prince George County Public Schools logo.PNG" width="172" height="148" alt=""/></td>
       <td style="width: 33%;"><a href="http://web.richmond.k12.va.us/" target="_blank"><img src="images/districts/richmond.png" width="60%" /></a></td>
-    <td style="width: 33%;"></td>
+    <td style="width: 33%;"><img src="images/petersburg-city-public-schools-squarelogo.png" width="217" height="206" alt=""/></td>
     </tr>
+    <tr><td style="width: 33%;"></td>
+    <td style="width: 33%;"><img src="images/hopewell_logo.jpg"></td>
+    <td style="width: 33%;"></td></tr>
   </tbody>
 </table>
     <hr/>

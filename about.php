@@ -54,31 +54,31 @@
     <h4 style="text-align: center; font-family: dinbold;">By 2020, the amount of Potential 1M unfilled jobs will climb.</h4>
 <img src="images/numbers.png" width="80%" height="80%" class="numbers" alt="codeRVA numbers" />
 <h3 style="text-align: center; font-family: dinbold;">Now, there is CodeRVA, a hybrid high school to solve this problem.</h3>
-  <p class="coderva-about-p"> Richmond Regional School for Innovation 's (CodeRVA) main goal is to increase the number of computer science professionals in the region. Our mission is to create a school in which underserved, low-income  students will have equal access to college and career preparation in a unique, highly-engaging and relevant learning environment. CodeRVA is accepting 82 applicants the first year and plans to expand to over 800 students within the next 8 years.</p>
-  <table width="100%" border="0">
+  <p class="coderva-about-p">We are the Richmond Regional School for Innovation (CodeRVA), and our main goal is to increase the number of computer science professionals in the region before being replicated across all 16 tech career clusters. Our mission is to create a school in which underserved, low-income or marginalized students will have equal access to college and career preparation in a unique, highly-engaging and relevant enviornment. CodeRVAwill accept a small class of approximately 80-90 students during the first year, with plans to expand to over 400 students within the next four years. </p>
+<table width="100%" border="0">
     <tbody>
       <tr>
         <td width="50%" class="fiftyshades" valign="top">
         <h3 style="text-align: center; font-family: dinbold;">What We Provide</h3>
-          <p class="coderva-about-p">During the first two years of high school, students will complete a majority of the courses required for a high school diploma through facilitated online coursework. Virtual learning will be provided by collab projects and face-to-face interactions with teachers and industry experts. During the last two years of high school, partnerships with community colleges and employers will allow students to participate in paid work experience, and to graduate high school with an associate’s degree, industry certifications, and guaranteed employment.</p></td>
+          <p class="coderva-about-p">During the first two years of high school, students will complete a majority of the courses required for a high school diploma through facilitated online coursework. Virtual learning will be provided by collaborative projects and face-to-face interactions with teachers and industry experts. During the last two years of high school, partnerships with community colleges and employers will allow students to participate in paid work experience, and to graduate high school with an associate’s degree, industry certifications, and guaranteed employment.</p></td>
         <td width="50%" class="fiftyshades">
         <h3 style="text-align: center; font-family: dinbold;">What CodeRVA Students Receive</h3>
-          <p class="coderva-about-p">CodeRVA students will graduate with a high school diploma and over 400 hours of paid information technology work experience.</p></td>
+          <p class="coderva-about-p">CodeRVA students will graduate with a high school diploma, hundreds of hours of paid computer science work experience, community college credits, with no academic prerequisites.</p></td>
       </tr>
       <tr>
         <td width="50%" class="fiftyshades">
         <h3 style="text-align: center; font-family: dinbold;">Why It Was Created and What Is It </h3>
-          <p class="coderva-about-p">As new generations of students are becoming interest in  the newest technology; Therefore, schools should embrace the technological advancements and prepare students for the world they live in. Students will be able to gain hands-on experience  into the world of coding in a rich an interactive way. </p></td>
+          <p class="coderva-about-p">There is a significant workforce gap in the computer science and technology field. As new generations of students are becoming interested in all of the newest fields of the technology workforce, CodeRVA seeks to prepare students in Region 1 to fill the nearly 30,000 unfilled positions in Virginia. </p></td>
         <td width="50%" class="fiftyshades">
         <h3 style="text-align: center; font-family: dinbold;">Why is this Innovative?</h3>
-        <p class="coderva-about-p">Your child will complete all high school credits during their 9th and 10th grade year. All of their courses will be personalized/blended learning experiences and/or full-time virtual learning. Also, all courses will be built on integration of subject matter and instruction will be project-based. Our main innovation is that all of your child's courses will be integrated with a Computer Science component and the school will be 1 to 1 with technology.</p>
+        <p class="coderva-about-p">Your child will complete all high school credits during their 9th and 10th grade year. All of their courses will be personalized/blended learning experiences and/or full-time virtual learning. Also, all courses will be designed to include the integration of subject matter and instruction will be project-based learning. Our main innovation is that all of your child's courses will be integrated with a computer science component and the school will be supported by a 1 to 1 technology model.</p>
         </td>
       </tr>
     </tbody>
   </table>
   
   <h3 style="text-align: center; font-family: dinbold;">The Application Process</h3>
-  <p class="coderva-about-p">Richmond Regional School for Innovation is designed to serve a diverse, lottery-selected student population. The school will embody design principles of personalization, adult world connections, and career. All students in the 8th grade are encouraged to apply. There are no admission criteria or academic prerequisites. </p>
+  <p class="coderva-about-p">For the 2016-2017 school year enrollment process, rising 9th grade students (currently 8th graders) should contact their school counselors to request information and placement in the Intro to Computer Science MOOC (Massive Open Online Course). This course will be offered in their home school.  In 2017-2018, students in the rising 9th grade and 10th grade will be encouraged to apply.  There are no admissions criteria or academic prerequisites.  This new regional school will be designed to serve a diverse, lottery-selected student population and will embody design principles of personalization, adult world connections, and career opportunities.</p>
   <hr/>
   <footer>
 <?php include 'functions.php';?>
